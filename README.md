@@ -1,48 +1,127 @@
-# 🌟 Hi, I'm Nguyen Thanh Dung
+<h1 align="center">🌟 Hi, I'm Novi (Nguyen Thanh Dung)</h1>
 
-<h2 align="center">👨‍💻 Introduction 👨‍💻</h2>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61dafb&center=true&vCenter=true&width=435&lines=Aspiring+Data+Engineer;Backend+Enthusiast;Lifelong+Learner" />
+</p>
 
-- 💼 I'm currently working at **Ho Chi Minh City University of Technology (HCMUT)**.  
-- 🎯 My near-future goal is to become a **Backend Developer**.  
-- 🤷‍♂️ Hobbies: Honestly... nothing in particular. Just coding and learning.  
-- 🔭 Currently building an E-Commerce website project — just for fun and practice!  
+---
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-282C34.svg?logo=vsc&logoColor=0078d7" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
-&nbsp;
+# 👨‍💻 Introduction
 
+🎓 **Education**  
+Senior Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)**.
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<br>
-<div align=center>
-  <a href="#" title="TaikiInomata">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaikiInomata&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="TaikiInomata">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=TaikiInomata&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
-  </a>
+🎯 **Career Goal**  
+Transitioning from **Backend Development → Professional Data Engineer**
+
+🚀 **Current Focus**
+- Building a **Traffic Data Warehouse**
+- Implementing **Galaxy Schema**
+- Developing **ETL pipelines with Airflow**
+- Streaming data using **Kafka**
+
+✍️ **Learning**
+- IBM Data Engineering Professional Certificate
+- Google Cloud Data Engineering Certificate
+
+🗣 **Languages**
+- Vietnamese (Native)
+- English (TOEIC 655)
+- Planning to learn a third language soon
+
+---
+
+# 🛠 Technologies & Tools
+
+## 🏗 Data Engineering & Backend
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+
+</p>
+
+---
+
+## 📊 Databases & Analytics
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+
+</p>
+
+---
+
+## ⚙️ Tools & DevOps
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+</p>
+
+---
+
+# 📈 Recent Highlights
+
+🔹 **Software Engineer Intern – FPT Software**
+
+- Developed **Microservices with Java Spring Boot**
+- Implemented **API Gateway**
+- Handled **asynchronous communication using Kafka**
+
+🔹 **Traffic Data Warehouse Project**
+
+- Designing **Galaxy Schema**
+- Building **ETL pipelines**
+- Managing **API request budgets**
+- Integrating **Traffic, Weather, and Map data**
+
+🔹 **Certification**
+
+- TOEIC **655 / 990**
+
+---
+
+# 🔥 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&border_radius=10" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&border_radius=10" />
+
 </div>
+
+---
+
+# 📫 Connect with me
+
+📧 Email: *your_email_here*  
+💼 LinkedIn: *your_linkedin_here*  
+🌐 Portfolio: *your_portfolio_here*
+
+---
+
+⭐ *Always learning, always building.*
