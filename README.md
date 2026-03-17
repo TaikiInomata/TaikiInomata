@@ -118,9 +118,8 @@ Transitioning from **Backend Development → Professional Data Engineer**
 
 # 📫 Connect with me
 
-📧 Email: *your_email_here*  
-💼 LinkedIn: *your_linkedin_here*  
-🌐 Portfolio: *your_portfolio_here*
+📧 Email: thanhdungng04@gmail.com  
+💼 LinkedIn:  https://www.linkedin.com/feed/
 
 ---
 
