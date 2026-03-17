@@ -108,9 +108,9 @@ Transitioning from **Backend Development → Professional Data Engineer**
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&border_radius=10" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaikiInomata&layout=compact&theme=react&border_radius=10" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&border_radius=10" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TaikiInomata&show_icons=true&theme=react&border_radius=10" />
 
 </div>
 
