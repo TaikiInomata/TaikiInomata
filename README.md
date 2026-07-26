@@ -88,7 +88,7 @@ Building highly scalable, end-to-end **Data Engineering pipelines** and **Lakeho
 # 📫 Connect with me
 
 📧 Email: [thanhdungng04@gmail.com](mailto:thanhdungng04@gmail.com)  
-💼 LinkedIn: [Nguyen Thanh Dung]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/d%C5%A9ng-nguy%E1%BB%85n-9b7343397/))
+💼 LinkedIn: [Nguyen Thanh Dung](https://www.linkedin.com/in/d%C5%A9ng-nguy%E1%BB%85n-9b7343397/)
 
 ---
 <p align="center">⭐ <i>"Turning raw data into strategic assets."</i> ⭐</p>
