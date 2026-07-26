@@ -78,10 +78,11 @@ Building highly scalable, end-to-end **Data Engineering pipelines** and **Lakeho
 
 # 🔥 GitHub Stats
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaikiInomata&layout=compact&theme=react&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TaikiInomata&show_icons=true&theme=react&border_radius=10" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaikiInomata&layout=compact&theme=react&border_radius=10&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TaikiInomata&show_icons=true&theme=react&border_radius=10&cache_seconds=86400" width="48%" />
+</p>
+
 
 ---
 
